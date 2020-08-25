@@ -30,7 +30,6 @@ ax.arrow(0			, 0			, vetor_soma[0]	, vetor_soma[1]	, head_width=0.02, head_lengt
 plt.axis([-1, 1, -1, 1])  #definindo os limites do gráfico a ser desenhado (plotado)
 plt.grid( linestyle='-', linewidth=1)  #definir o grid (tela)
 plt.show() # comando final para desenhar na tela (plotar)
-C:\Users\Hugo\Documents\ifFast\vetor1.py
 #propostas
 
 # 1) Trocar os vetores (coordenadas)
